@@ -49,7 +49,24 @@ export const About: FC = () => {
       </TextBlock>
       <H5 text="Stellar Public Good" />
       <TextBlock>
-        The Stellar Security Portal is built as an open-source, community-minded resource aligned with Stellar’s public-good mission. It provides transparent security findings, audit insights, and educational resources to benefit the wider Soroban ecosystem. Our initial milestones of the SCF project were completed in September of 2025 but we have continued to improve and maintain it. For more information on what has changed and how you can get involved you can read about it through [this medium article](https://medium.com/@inferara/stellar-security-portal-update-whats-new-in-june-2026-f4b4f19fd953) or see our more frequent updates directly through the discord [projects channel](https://discord.com/channels/897514728459468821/1394263673278697483)
+        The Stellar Security Portal is built as an open-source, community-minded resource aligned with Stellar’s public-good mission. It provides transparent security findings, audit insights, and educational resources to benefit the wider Soroban ecosystem. Our initial SCF project milestones were completed in September 2025, and the portal has continued to grow through ongoing maintenance, public-good work, and community updates.
+      </TextBlock>
+      <TextBlock>
+        Read the <ExternalLink url="https://medium.com/@inferara/stellar-security-portal-update-whats-new-in-june-2026-f4b4f19fd953" text="June 2026 portal update" /> or follow more frequent project notes in the <ExternalLink url="https://discord.com/channels/897514728459468821/1394263673278697483" text="Discord projects channel" />.
+      </TextBlock>
+      <H5 text="Blogs and media" />
+      <TextBlock>
+        <ul>
+          <li><ExternalLink url="https://medium.com/@inferara/stellar-security-portal-update-whats-new-in-june-2026-f4b4f19fd953" text="Stellar Security Portal Update: What's New in June 2026" /></li>
+          <li><ExternalLink url="https://discord.com/channels/897514728459468821/1394263673278697483" text="Inferara Discord project updates" /></li>
+        </ul>
+      </TextBlock>
+      <H5 text="Public goods maintenance" />
+      <TextBlock>
+        <ul>
+          <li><ExternalLink url="https://github.com/SCF-Public-Goods-Maintenance/scf-public-goods-maintenance.github.io/pull/104" text="Latest SCF Public Goods maintenance pull request" /></li>
+          <li><ExternalLink url="https://github.com/SCF-Public-Goods-Maintenance/scf-public-goods-maintenance.github.io/pull/59" text="Earlier SCF Public Goods maintenance pull request" /></li>
+        </ul>
       </TextBlock>
       <H5 text="What you can find in the Portal" />
       <TextBlock>
